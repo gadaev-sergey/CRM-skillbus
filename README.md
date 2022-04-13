@@ -1,4 +1,4 @@
-# <img src="http://img.sergey-gadaev.tmweb.ru/program-ux.png" height="26"/> CRM skillbus - система управления контактными данными клиентов.
+# <img src="http://img.sergey-gadaev.tmweb.ru/program-ux.png" height="26"/> CRM skillbus - система управления контактными данными клиентов
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
